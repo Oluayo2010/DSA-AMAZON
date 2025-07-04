@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Data Dashboard
 
-This project analyzes Amazon product sales data and presents insights through an interactive Excel dashboard. It includes both the cleaned dataset and a dashboard built using Excel Pivot Tables and charts
+This project analyzes Amazon product sales data and presents insights through an Excel dashboard. It includes both the cleaned dataset and a dashboard built using Excel Pivot Tables and charts
 
 ---
 
@@ -8,7 +8,7 @@ This project analyzes Amazon product sales data and presents insights through an
 
 - **Microsoft Excel**
   - Pivot Tables
-  - Data Cleaning (Formulas + Manual Review)
+  - Data Cleaning (Calculated Columns + Manual Review)
   - Bar Charts and Pie Charts
 
 ---
@@ -26,7 +26,7 @@ The dashboard summarizes key product metrics with the following visuals:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Oluayo2010/DSA-AMAZON/blob/main/Screenshot%20.png)
 
 ---
 
@@ -36,7 +36,7 @@ The original raw data was cleaned and processed using Excel. Key steps:
 
 - Removed duplicate and handled missing data
 - Converted prices, discounts, and review counts into numeric format
-- Created calculated fields such as:
+- Created calculated columns such as:
   - `Total Potential Revenue`
   - `Top 5 in Rating and Review`
   - `Price Range Bucket`
